@@ -1,0 +1,6 @@
+S:\Step\Homeworks\C#\Homework#12(24.04.2015)\WorkingWithXML\WorkingWithXML\bin\Debug\WorkingWithXML.exe.config
+S:\Step\Homeworks\C#\Homework#12(24.04.2015)\WorkingWithXML\WorkingWithXML\bin\Debug\WorkingWithXML.exe
+S:\Step\Homeworks\C#\Homework#12(24.04.2015)\WorkingWithXML\WorkingWithXML\bin\Debug\WorkingWithXML.pdb
+S:\Step\Homeworks\C#\Homework#12(24.04.2015)\WorkingWithXML\WorkingWithXML\obj\Debug\WorkingWithXML.csprojResolveAssemblyReference.cache
+S:\Step\Homeworks\C#\Homework#12(24.04.2015)\WorkingWithXML\WorkingWithXML\obj\Debug\WorkingWithXML.exe
+S:\Step\Homeworks\C#\Homework#12(24.04.2015)\WorkingWithXML\WorkingWithXML\obj\Debug\WorkingWithXML.pdb
